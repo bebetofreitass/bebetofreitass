@@ -2,12 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Carlos Alberto, tenho 23 anos e sou natural de Fortaleza.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFOR. Sou apaixonado por tecnologia e jogos.
+### Me chamo Carlos Alberto, tenho 23 anos e sou natural de Fortaleza.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFOR. Sou apaixonado por tecnologia e jogos.
 
 
 ---
-
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -68,21 +67,25 @@ Me chamo Carlos Alberto, tenho 23 anos e sou natural de Fortaleza.  Atualmente, 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
+## 📊 Estatísticas
+<br>
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=bebetofreitass&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
+  <br>
+  <br>
 
+## 📊 Linguagens
+  <br>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebetofreitass&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebetofreitass&theme=dark&layout=compact&custom_title=Programming Languages&langs_count=9" 
   />
 </p>
